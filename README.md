@@ -1,5 +1,4 @@
-Olá eu sou a Vitória, sou estudante de programação, apixonaa pela area de dadose de noegocios, aqui pretendo compartilhar meus conheciementos.
-atualmente estou estudando Java, python, Sql, e outras ferramentas para auxiliar na analise de dados 
+Olá eu sou a Vitória, sou estudante de programação, apaixonada pela área de dados e de negócios, aqui pretendo compartilhar meus conheciementos. Atualmente estou estudando Java, python, Sql, e outras ferramentas para auxiliar na analise de dados. 
 
 <!---
 vihcaroline/vihcaroline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
